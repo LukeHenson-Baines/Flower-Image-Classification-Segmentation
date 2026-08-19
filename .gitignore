@@ -1,0 +1,22 @@
+# Visual Studio / VS Code metadata
+.vs/
+.vscode/
+
+# MATLAB autosave / temporary files
+*.asv
+*.m~
+
+# Large datasets
+17flowers/
+17flowers_split/
+daffodilSeg/
+
+# Coursework only information
+report/
+
+# Trained models
+models/
+
+# OS junk
+.DS_Store
+Thumbs.db
